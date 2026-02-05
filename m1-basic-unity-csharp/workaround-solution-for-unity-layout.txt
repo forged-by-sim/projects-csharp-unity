@@ -1,0 +1,9 @@
+Setting up my Unity layout. These are my workarounds:
+
+- I went to the 3 vertical dots on the side of the open lock then clicked add tab.  
+
+- I’ve clicked default. Then I’ve added tabs (or removed) at the appropriate locations.   
+
+- I’ve maximized the project folder. It was set as a two column layout. I’ve changed to one column layout then minimized.  
+
+-I also dragged a couple of tabs to their appropriate locations. Then saved my layout. 

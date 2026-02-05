@@ -1,0 +1,11 @@
+If you’ve double-clicked a script from the Unity editor to open it and Visual Studio doesn’t have the Build option on the top menu bar, try the following steps:
+
+Fix 1 (most common)
+
+Close Visual Studio. In the Unity editor, select Edit > Preferences … from the top menu bar. Select External Tools in the pane on the left of the popup, click the dropdown to the right of External Script Editor near the top of the pane on the right, and select Microsoft Visual Studio 2022. Close the popup and open your script again.
+
+This problem seems to be caused when the External Script Editor is set to “Open by file extension” instead of being explicitly set to a version of Visual Studio.
+
+Fix 2 (unusual)
+
+Close Visual Studio. In the Unity editor, select Window > Package Manager from the top menu bar. Select Unity Registry from the Packages dropdown near the upper left. Scroll down to the Visual Studio Editor package, select it, and click the gray Install button near the upper right.

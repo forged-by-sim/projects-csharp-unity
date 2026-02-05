@@ -1,0 +1,23 @@
+# Ignore the massive Library folder (Unity cache + metadata)
+[Lets GitHub skip Unity clutter]
+
+# Ignore build results
+[Lets GitHub skip Unity clutter]
+
+# Ignore temporary files
+[Lets GitHub skip Unity clutter]
+
+# Ignore JetBrains Rider project files
+[Lets GitHub skip Unity clutter]
+
+# Ignore VSCode settings
+[Lets GitHub skip Unity clutter]
+
+# Ignore Visual Studio files
+[Lets GitHub skip Unity clutter]
+
+# Ignore Unity crash logs
+[Lets GitHub skip Unity clutter]
+
+# Ignore custom .env or secrets (if used)
+.env
