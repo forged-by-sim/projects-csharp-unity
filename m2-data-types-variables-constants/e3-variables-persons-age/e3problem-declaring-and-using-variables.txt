@@ -1,0 +1,11 @@
+Problem – Declaring and using variables
+
+Create a new C# Console App named Exercise3.
+
+ In the Main method, do the following:
+
+ Declare a variable named age of type int.
+
+ Store your age in this variable.
+
+ Print the value of the variable to the user.
