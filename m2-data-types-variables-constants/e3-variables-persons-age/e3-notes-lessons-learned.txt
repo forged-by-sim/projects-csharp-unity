@@ -1,0 +1,12 @@
+Notes
+
+❌ Console.WriteLine("userAge")
+
+This provides a warning message that states 'the variable is assigned but its value is never used'
+
+
+✅ Console.WriteLine(userAge) 
+
+I was able to run the code successfully in version 1. 
+
+I've modified the code further in version 2. 
